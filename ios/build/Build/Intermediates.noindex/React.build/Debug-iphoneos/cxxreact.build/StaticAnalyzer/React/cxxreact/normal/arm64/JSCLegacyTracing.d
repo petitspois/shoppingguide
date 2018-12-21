@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/qingdou/dev/apptest/shoppingGuideApp/node_modules/react-native/ReactCommon/cxxreact/JSCLegacyTracing.cpp \
+  /Users/qingdou/dev/apptest/shoppingGuideApp/node_modules/react-native/ReactCommon/cxxreact/JSCLegacyTracing.h \
+  /Users/qingdou/dev/apptest/shoppingGuideApp/ios/build/Build/Products/Debug-iphoneos/include/jschelpers/JavaScriptCore.h \
+  /Users/qingdou/dev/apptest/shoppingGuideApp/ios/build/Build/Products/Debug-iphoneos/include/jschelpers/JSCWrapper.h
